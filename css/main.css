@@ -1,0 +1,52 @@
+@font-face{
+	font-family: 'IzhitsaC';
+	src: url('../font/1.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+h1{
+	color: #8d5524;
+	font-size: 64px;
+	font-family: 'Amatic SC', cursive;
+}
+p{
+	color: #c68642;
+	font-size: 32px;
+	font-family: 'Lobster', cursive;
+}
+span{
+	background: #8d5524;
+	color: #ffdbac;
+}
+a{
+	text-decoration: none;
+	color: rgb(224,172,105);
+	font-size: 30px;
+	font-family: 'IzhitsaC';
+	display: block;
+	margin: 20px 0;
+}
+div{	
+	width: 75%;
+	margin: auto;
+	background-color: #ffdbac;
+	padding: 50px;
+}
+img{
+	width: 100%;
+	height: auto;
+	display: block;
+	margin: 5px 0;
+}
+body{
+	font-size: 20px;
+	background-color: #8d5524;
+}
+.xz{
+	display: inline;
+}
